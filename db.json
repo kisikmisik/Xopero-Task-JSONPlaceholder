@@ -43,7 +43,7 @@
       "tasksAssigned": 0
     }
   ],
-  "tasks": [
+  "todos": [
     { 
       "id": "1", 
       "userId": "1", 
@@ -69,6 +69,125 @@
       "name": "COFFEE TIME", 
       "description": "Make a coffee", 
       "deadlineTime": "2023-09-25T17:00:00Z"}
+  ],
+  "albums" : [
+    {
+      "id": "1", 
+      "userId": "1", 
+      "name" : "Reports",
+      "photos": [
+        {
+          "id": "1",
+          "title": "accusamus beatae ad facilis cum similique qui sunt",
+          "url": "https://via.placeholder.com/600/92c952",
+          "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+        },
+        {
+          "id": "2",
+          "title": "reprehenderit est deserunt velit ipsam",
+          "url": "https://via.placeholder.com/600/771796",
+          "thumbnailUrl": "https://via.placeholder.com/150/771796"
+        },
+        {
+          "id": "3",
+          "title": "officia porro iure quia iusto qui ipsa ut modi",
+          "url": "https://via.placeholder.com/600/24f355",
+          "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+        }
+      ]
+    },
+    {
+      "id": "2", 
+      "userId": "3", 
+      "name" : "Coolest photos",
+      "photos": [
+        {
+          "id": "3385",
+          "title": "odio quia qui repellat corporis et sequi quasi",
+          "url": "https://via.placeholder.com/600/16310e",
+          "thumbnailUrl": "https://via.placeholder.com/150/16310e"
+        },
+        {
+          "id": "3386",
+          "title": "impedit ipsam deleniti officiis totam assumenda provident consequatur vero",
+          "url": "https://via.placeholder.com/600/b16eb2",
+          "thumbnailUrl": "https://via.placeholder.com/150/b16eb2"
+        },
+        {
+          "id": "3387",
+          "title": "impedit est ut ut quia sunt",
+          "url": "https://via.placeholder.com/600/cf6d1e",
+          "thumbnailUrl": "https://via.placeholder.com/150/cf6d1e"
+        },
+        {
+          "id": "3388",
+          "title": "inventore consequuntur dolorem et laudantium accusamus iure dolor facilis",
+          "url": "https://via.placeholder.com/600/4371f4",
+          "thumbnailUrl": "https://via.placeholder.com/150/4371f4"
+        }
+      ]
+    },
+    {
+      "id": "3", 
+      "userId": "3", 
+      "name" : "Me and my guys",
+      "photos": [
+        {
+          "id": "3402",
+          "title": "quod omnis dolorum sint commodi repellendus iure",
+          "url": "https://via.placeholder.com/600/516ac3",
+          "thumbnailUrl": "https://via.placeholder.com/150/516ac3"
+        },
+        {
+          "id": "3403",
+          "title": "architecto sequi rerum dolor",
+          "url": "https://via.placeholder.com/600/16e31c",
+          "thumbnailUrl": "https://via.placeholder.com/150/16e31c"
+        },
+        {
+          "id": "3404",
+          "title": "recusandae eos velit tempore ab et et sed",
+          "url": "https://via.placeholder.com/600/56170d",
+          "thumbnailUrl": "https://via.placeholder.com/150/56170d"
+        },
+        {
+          "id": "3405",
+          "title": "repudiandae aliquam tenetur rerum ea eum",
+          "url": "https://via.placeholder.com/600/c3f24b",
+          "thumbnailUrl": "https://via.placeholder.com/150/c3f24b"
+        },
+        {
+          "id": "3406",
+          "title": "qui explicabo possimus voluptatibus facilis dolores architecto aut saepe",
+          "url": "https://via.placeholder.com/600/b14aba",
+          "thumbnailUrl": "https://via.placeholder.com/150/b14aba"
+        },
+        {
+          "id": "3407",
+          "title": "sit et beatae ut",
+          "url": "https://via.placeholder.com/600/5f0809",
+          "thumbnailUrl": "https://via.placeholder.com/150/5f0809"
+        },
+        {
+          "id": "3408",
+          "title": "aperiam iure officia porro",
+          "url": "https://via.placeholder.com/600/d4a168",
+          "thumbnailUrl": "https://via.placeholder.com/150/d4a168"
+        },
+        {
+          "id": "3409",
+          "title": "ipsa sunt explicabo quam consequuntur blanditiis numquam repellat totam",
+          "url": "https://via.placeholder.com/600/c6441",
+          "thumbnailUrl": "https://via.placeholder.com/150/c6441"
+        },
+        {
+          "id": "3410",
+          "title": "dolore ut in aut accusamus consequatur quibusdam sit libero",
+          "url": "https://via.placeholder.com/600/38b628",
+          "thumbnailUrl": "https://via.placeholder.com/150/38b628"
+        }
+      ]
+    }
   ],
   "profile": {
     "name": "kisikmisik"
