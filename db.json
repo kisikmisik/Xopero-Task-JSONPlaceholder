@@ -4,58 +4,47 @@
       "id": 1, 
       "fullName": "Elon Mask",
       "age": 51,
-      "tasks": [
-        { "id": 1, "name": "Task 1", "description": "Do something", "deadlineTime": "2023-05-02T12:00:00Z"}
-      ],
       "coolRank": 95
     },
     { 
       "id": 2, 
       "fullName": "Nikola Tesla",
       "age": 86,
-      "tasks": [
-        { "id": 2, "name": "Task 2", "description": "Do something 2", "deadlineTime": "2023-06-02T12:00:00Z"}
-      ],
       "coolRank": 110
     },
     { 
       "id": 3, 
       "fullName": "Martin Luther King",
       "age": 40,
-      "tasks": [
-        { "id": 2, "name": "Task 2", "description": "Do something 2", "deadlineTime": "2023-06-02T12:00:00Z"}
-      ],
       "coolRank": 75
     },
     { 
       "id": 4, 
       "fullName": "Tim Berners-Lee",
       "age": 67,
-      "tasks": [
-        { "id": 2, "name": "Task 2", "description": "Do something 2", "deadlineTime": "2023-06-02T12:00:00Z"}
-      ],
       "coolRank": 200
     },
     { 
       "id": 5, 
       "fullName": "Richard Dawkins",
       "age": 45,
-      "tasks": [
-        { "id": 2, "name": "Task 2", "description": "Do something 2", "deadlineTime": "2023-06-02T12:00:00Z"}
-      ],
       "coolRank": 78
     },
     { 
       "id": 6, 
       "fullName": "Stephen Hawking",
       "age": 86,
-      "tasks": [
-        { "id": 2, "name": "Task 2", "description": "Do something 2", "deadlineTime": "2023-06-02T12:00:00Z"}
-      ],
+
       "coolRank": 98
     }
+  ],
+  "tasks": [
+    { "id": 1, "userId": 1, "name": "FALCON HEAVY", "description": "Launch Falcon Heavy without boom-boom", "deadlineTime": "2023-06-02T12:00:00Z"},
+    { "id": 2, "userId": 1, "name": "GIVE TESLA", "description": "Gift Tesla to Volodymyr Nofenko", "deadlineTime": "2023-09-25T17:00:00Z"},
+    { "id": 3, "userId": 3, "name": "PREACHING", "description": "Preaching", "deadlineTime": "1955-06-02T12:00:00Z"},
+    { "id": 4, "userId": 4, "name": "COFFEE TIME", "description": "Make a coffee", "deadlineTime": "2023-09-25T17:00:00Z"}
   ],
   "profile": {
     "name": "kisikmisik"
     }
-  }
+}
