@@ -4,45 +4,71 @@
       "id": 1, 
       "fullName": "Elon Mask",
       "age": 51,
-      "coolRank": 95
+      "coolRank": 95,
+      "tasksAssigned": 2
     },
     { 
       "id": 2, 
       "fullName": "Nikola Tesla",
       "age": 86,
-      "coolRank": 110
+      "coolRank": 110,
+      "tasksAssigned": 0
     },
     { 
       "id": 3, 
       "fullName": "Martin Luther King",
       "age": 40,
-      "coolRank": 75
+      "coolRank": 75,
+      "tasksAssigned": 1
     },
     { 
       "id": 4, 
       "fullName": "Tim Berners-Lee",
       "age": 67,
-      "coolRank": 200
+      "coolRank": 200,
+      "tasksAssigned": 1
     },
     { 
       "id": 5, 
       "fullName": "Richard Dawkins",
       "age": 45,
-      "coolRank": 78
+      "coolRank": 78,
+      "tasksAssigned": 0
     },
     { 
       "id": 6, 
       "fullName": "Stephen Hawking",
       "age": 86,
-
-      "coolRank": 98
+      "coolRank": 98,
+      "tasksAssigned": 0
     }
   ],
   "tasks": [
-    { "id": 1, "userId": 1, "name": "FALCON HEAVY", "description": "Launch Falcon Heavy without boom-boom", "deadlineTime": "2023-06-02T12:00:00Z"},
-    { "id": 2, "userId": 1, "name": "GIVE TESLA", "description": "Gift Tesla to Volodymyr Nofenko", "deadlineTime": "2023-09-25T17:00:00Z"},
-    { "id": 3, "userId": 3, "name": "PREACHING", "description": "Preaching", "deadlineTime": "1955-06-02T12:00:00Z"},
-    { "id": 4, "userId": 4, "name": "COFFEE TIME", "description": "Make a coffee", "deadlineTime": "2023-09-25T17:00:00Z"}
+    { 
+      "id": 1, 
+      "userId": 1, 
+      "name": "FALCON HEAVY", 
+      "description": "Launch Falcon Heavy without boom-boom", 
+      "deadlineTime": "2023-06-02T12:00:00Z"
+    },
+    { 
+      "id": 2, 
+      "userId": 1, 
+      "name": "GIVE TESLA", 
+      "description": "Gift Tesla to Volodymyr Nofenko", 
+      "deadlineTime": "2023-09-25T17:00:00Z"},
+    { 
+      "id": 3, 
+      "userId": 3, 
+      "name": "PREACHING", 
+      "description": "Preaching", 
+      "deadlineTime": "1955-06-02T12:00:00Z"},
+    { 
+      "id": 4, 
+      "userId": 4, 
+      "name": "COFFEE TIME", 
+      "description": "Make a coffee", 
+      "deadlineTime": "2023-09-25T17:00:00Z"}
   ],
   "profile": {
     "name": "kisikmisik"
